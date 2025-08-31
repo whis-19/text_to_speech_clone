@@ -1,12 +1,11 @@
-pdfplumber 
-pytesseract 
-pdf2image 
-playsound 
-TTS
-pydub
-tqdm
-streamlit
-torch
-soundfile
-Pillow
+streamlit==1.28.1
+torch==2.1.0
+TTS==0.22.0
+pdfplumber==0.10.3
+pytesseract==0.3.10
+pdf2image==1.16.3
+pydub==0.25.1
+soundfile==0.12.1
+tqdm==4.66.1
+Pillow==10.1.0
 
