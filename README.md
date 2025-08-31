@@ -1,6 +1,6 @@
 # PDF to Speech Converter - Streamlit App
 
-A user-friendly web application for converting PDF documents to speech using advanced Text-to-Speech (TTS) technology with voice cloning capabilities.
+A user-friendly web application for converting PDF documents to speech using advanced Text-to-Speech technology with voice cloning capabilities.
 
 ## Features
 
