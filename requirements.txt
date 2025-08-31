@@ -1,7 +1,6 @@
 pdfplumber 
 pytesseract 
-pdf2image 
-playsound 
+pdf2image  
 TTS
 pydub
 tqdm
