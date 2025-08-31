@@ -1,0 +1,12 @@
+pdfplumber 
+pytesseract 
+pdf2image 
+playsound 
+TTS
+pydub
+tqdm
+streamlit
+torch
+soundfile
+Pillow
+
