@@ -74,7 +74,7 @@ audio_samples/
 # PDF processing
 temp_pdfs/
 converted_images/
-*.png
+
 *.jpg
 *.jpeg
 
@@ -94,8 +94,7 @@ tensorboard_logs/
 .env.test.local
 .env.production.local
 
-# Streamlit
-.streamlit/
+
 
 # Temporary files
 *.tmp
