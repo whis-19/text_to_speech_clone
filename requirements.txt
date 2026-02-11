@@ -1,11 +1,12 @@
 pdfplumber 
 pytesseract 
 pdf2image  
-TTS
+TTS>=0.22.0
 pydub
 tqdm
 streamlit
 torch
 soundfile
 Pillow
+# deepspeed==0.10.3  # Optional: for faster inference, install manually if needed
 
